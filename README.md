@@ -1,2 +1,1 @@
-# theodicy
-Theodicy by Gottfried Wilhelm von Leibniz
+# Theodicy by Gottfried Wilhelm von Leibniz
